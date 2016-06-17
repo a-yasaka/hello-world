@@ -6,8 +6,8 @@ require 'hello_world/version'
 Gem::Specification.new do |spec|
   spec.name          = "hello_world"
   spec.version       = HelloWorld::VERSION
-  spec.authors       = ["yasakabehindblueeyes@sa2.so-net.ne.jp"]
-  spec.email         = ["yasakabehindblueeyes@sa2.so-net.ne.jp"]
+  spec.authors       = ["a-yasaka"]
+  spec.email         = ["a-yasaka@hoge.com"]
 
   spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
